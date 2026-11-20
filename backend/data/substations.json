@@ -1,0 +1,88 @@
+[
+  {
+    "id": "101",
+    "name": "ІТП-101",
+    "address": "вул. Миру, 12",
+    "district": "Центральний",
+    "status": "normal",
+    "thermalLoad": 3.45,
+    "connectedBuildings": 8,
+    "lastInspectionDate": "2026-11-05",
+    "meters": [
+      {
+        "id": "m101",
+        "substationId": "101",
+        "model": "MULTICAL 603",
+        "serialNumber": "MC-10106",
+        "pipeType": "supply",
+        "currentTemp": 68.5,
+        "verificationDueDate": "2027-06-10"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "ІТП-102",
+    "address": "вул. Дніпровська, 4",
+    "district": "Північний",
+    "status": "warning",
+    "thermalLoad": 1.8,
+    "connectedBuildings": 4,
+    "lastInspectionDate": "2026-10-28",
+    "meters": []
+  },
+  {
+    "id": "103",
+    "name": "ІТП-103",
+    "address": "вул. Садова, 29",
+    "district": "Західний",
+    "status": "critical",
+    "thermalLoad": 5.25,
+    "connectedBuildings": 12,
+    "lastInspectionDate": "2026-10-11",
+    "meters": [
+      {
+        "id": "m103",
+        "substationId": "103",
+        "model": "MULTICAL 603",
+        "serialNumber": "MC-10306",
+        "pipeType": "supply",
+        "currentTemp": 45.3,
+        "verificationDueDate": "2027-06-10"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "ІТП-104",
+    "address": "вул. Шкільна, 8",
+    "district": "Східний",
+    "status": "normal",
+    "thermalLoad": 0.95,
+    "connectedBuildings": 3,
+    "lastInspectionDate": "2026-11-12",
+    "meters": []
+  },
+  {
+    "id": "105",
+    "name": "ІТП-105",
+    "address": "вул. Грушевського, 16",
+    "district": "Центральний",
+    "status": "normal",
+    "thermalLoad": 2.6,
+    "connectedBuildings": 6,
+    "lastInspectionDate": "2026-11-07",
+    "meters": []
+  },
+  {
+    "id": "106",
+    "name": "ІТП-106",
+    "address": "вул. Паркова, 2",
+    "district": "Північний",
+    "status": "warning",
+    "thermalLoad": 4.1,
+    "connectedBuildings": 9,
+    "lastInspectionDate": "2026-10-19",
+    "meters": []
+  }
+]
